@@ -1,4 +1,4 @@
-Hello, The Tic Tac Toe game program employs several functions to handle different aspects of gameplay.
+Hello, This Tic Tac Toe game program employs several functions to handle different aspects of gameplay.
 functionOne() is responsible for displaying the current state of the game board after each player's move, ensuring players can see where they and their opponent have marked.
 functionTwo() manages player input, prompting them to select a position on the board and validating whether the chosen move is valid (i.e., the position is not already occupied). 
 It updates the board accordingly and switches turns between players ('x' and '0').
